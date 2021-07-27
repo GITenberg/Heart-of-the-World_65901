@@ -1,10 +1,13 @@
 _repo: Heart-of-the-World_65901
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sawyer, Amy
     gutenberg_agent_id: '53540'
     url: http://www.gutenberg.org/2009/agents/53540
+covers:
+- cover_type: archival
+  image_path: 65901-h/images/cover.jpg
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65901#Heart-of-the-World
 gutenberg_issued: '2021-07-23'
 gutenberg_type: Text
 identifiers:
